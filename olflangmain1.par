@@ -47,10 +47,6 @@ recallnstep	 100
 recallngap 	   1000
 
 encode_order	   random 
-#eps 	               0.01	
-
-###### encode_local_only (encode only, no assoc training) , encode_local_asso (train local+assoc) , full (encode and train assocs and do recall) , preload_local ###### preload_localasso
-
 runflag      preload_localasso
 epsfloat_multiplier 	1	
 
