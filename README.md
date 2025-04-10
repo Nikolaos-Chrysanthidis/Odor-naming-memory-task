@@ -1,3 +1,2 @@
 # Odor-naming
-
-The Bayesian-Hebbian plasticity learning rule and the code that was used to run the experiments will soon be available here.
+All the supporting data, simulation code, synaptic plasticity implementation, and data analysis algorithms used in the experiments can be found in this repository.
