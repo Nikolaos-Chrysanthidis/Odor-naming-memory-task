@@ -52,5 +52,4 @@ Installation procedures using CMake:
 5) type: make && make install
 6) add bin folder to your path: export PATH="<your home catalog>/MyPrograms/BCPNNSim/works/bcpnn/bin:$PATH"
 
-Artur Podobas, June, 2020
-extended by Anders Lansner, Sept 2020
+
